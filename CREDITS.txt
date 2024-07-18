@@ -1,0 +1,14 @@
+- Component previewing scene: Modern Office by dylanheyes https://sketchfab.com/3d-models/modern-office-1c8940235d834bb09022eebf0eb0d9e8
+
+- PGA CPU model: INTEL A80186 PGA-68 (modified) by Хлюпич https://sketchfab.com/3d-models/intel-a80186-pga-68-d0232c08d9f049d28492548b94c93ee7
+This work is based on "INTEL A80186 PGA-68" (https://sketchfab.com/3d-models/intel-a80186-pga-68-d0232c08d9f049d28492548b94c93ee7) by Хлюпич (https://sketchfab.com/foxplay382) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+- Money bag icon: Money Bag SVG Vector by Ankush Syal (https://www.svgrepo.com/svg/520850/money-bag)
+
+- Processor icon: Processor SVG Vector by Neuicons under the MIT License (https://www.svgrepo.com/svg/487691/processor)
+
+- Puzzle icon: Puzzle SVG Vector by krystonschwarze (https://www.svgrepo.com/svg/511106/puzzle)
+
+- Return icon: Return SVG Vector by Adam Whitcroft under the MIT License (https://www.svgrepo.com/svg/514220/return)
+
+- Pause icon: Pause SVG Vector by Dazzle UI (https://www.svgrepo.com/svg/532514/pause)
